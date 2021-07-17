@@ -47,7 +47,7 @@ The total epochs applied in this model is 25, best model saved at 3rd epochs wit
 
 In this experiment, the semantic segmentation of water from images are:<br>
 
-![Segmentation Results](result.png)
+![Segmentation Results](results.png)
 
 
 
@@ -55,7 +55,7 @@ In this experiment, the semantic segmentation of water from images are:<br>
 
 | <!-- -->  |   Train set    |Validation set |
 | --------- | -------------- | --------------|
-| Accuracy  | 91%            | 89%           |
+| Accuracy  |     75.84%     |      70.96%   |
 
 
 
